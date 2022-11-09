@@ -1,0 +1,6 @@
+﻿  laba3.1.cpp
+C:\Users\User\source\repos\laba3.1\laba3.1\laba3.1.cpp(72,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\laba3.1\laba3.1\laba3.1.cpp(77,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\laba3.1\laba3.1\laba3.1.cpp(82,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\laba3.1\laba3.1\laba3.1.cpp(87,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  laba3.1.vcxproj -> C:\Users\User\source\repos\laba3.1\x64\Debug\laba3.1.exe
